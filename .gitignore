@@ -1,0 +1,5 @@
+bin/
+.env
+feed.json
+trips.json
+main
