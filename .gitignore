@@ -1,5 +1,8 @@
 bin/
 .env
+.env.*
+!.env.example
 feed.json
 trips.json
 main
+mini_feed.sqlite
